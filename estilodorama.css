@@ -1,0 +1,212 @@
+.cabecalho{
+    padding: 2% 0% 0% 0%;
+}
+.cabecalho__menu{
+    display: flex;
+    gap: 80px;
+}
+
+.logo{
+    padding-left: 2%;
+    padding-right: 45%;
+}
+.cabecalho__menu__link{
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: palevioletred;
+    text-decoration: none;
+}
+
+.apresentacao{
+    padding: 5% 12%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.apresentacao__conteudo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.rodape{
+    padding: 0.5% 5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.rodape__links{
+    display: flex;
+    gap: 380px;
+}
+.rodape__links__subtitulo1{
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: palevioletred;
+    padding-right: 535px;
+}
+.rodape__links__subtitulo{
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: palevioletred;
+}
+.apresentacao__links__link{
+    display: inline-flex;
+    justify-content: center;
+    gap: 16px;
+    border: 2px solid black;
+    width: 378px;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 21.5px 0;
+    text-decoration: none;
+}
+.apresentacao__links__link:hover{
+    background-color: lightgrey;
+}
+
+.faleconosco_tit{
+    padding-top: 5%;
+    justify-content: left;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: palevioletred;
+    text-decoration: none;
+}
+
+#cadastro{
+    border: none;
+}
+
+.nome_cadastro{
+    margin-top: 5%;
+    margin-left: 15%;
+    display: inline-block;
+}
+
+.sobrenome_cadastro{
+    margin-left: 5%;
+    display: inline-block;
+}
+
+#nome{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+#sobrenome{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 5%;
+}
+
+.email_cadastro{
+    margin-left: 15%;
+    display: inline-block;
+}
+
+.tel_cadastro{
+    margin-left: 5%;
+    display: inline-block;
+}
+
+#email{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+#tel{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 5%;
+}
+
+#infos{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 15%;
+}
+
+#botao{
+    margin-left: 75.7%;
+}
+
+.galeria_tit{
+    padding-top: 5%;
+    justify-content: left;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: palevioletred;
+    text-decoration: none;
+}
+
+.galeria{
+    padding: 5% 12%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.galeria_conteudo1{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 2% 2% 2% 2%;
+}
+.galeria_conteudo2{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 2% 2% 2% 2%;
+}
+.galeria_conteudo3{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 2% 2% 2% 2%;
+}
+.galeria_conteudo4{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 2% 2% 2% 2%;
+}
+
+.blog{
+    padding: 10% 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.blog_subtitulo{
+    justify-content: left;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: palevioletred;
+    text-decoration: none;
+}
+.apresentacao__conteudo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
